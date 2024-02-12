@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["cfg_if","form_urlencoded","getrandom","idna","libc","my_lib","percent_encoding","ppv_lite86","rand","rand_chacha","rand_core","tinyvec","tinyvec_macros","unicode_bidi","unicode_normalization","url"];
